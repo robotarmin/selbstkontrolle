@@ -1,0 +1,95 @@
+127.0.0.1  localhost
+::1  localhost
+
+# [magyar hírek]
+127.0.0.1 444.hu
+127.0.0.1 vadhajtasok.hu
+127.0.0.1 origo.hu
+127.0.0.1 telex.hu
+127.0.0.1 index.hu
+127.0.0.1 888.hu
+127.0.0.1 24.hu
+127.0.0.1 blikk.hu
+127.0.0.1 portfolio.hu
+127.0.0.1 femina.hu
+127.0.0.1 borsonline.hu
+127.0.0.1 hvg.hu
+127.0.0.1 kiskegyed.hu
+127.0.0.1 rtl.hu
+127.0.0.1 nlc.hu
+127.0.0.1 ripost.hu
+127.0.0.1 penzcentrum.hu
+127.0.0.1 mandiner.hu
+127.0.0.1 magyarnemzet.hu
+127.0.0.1 metropol.hu
+127.0.0.1 divany.hu
+127.0.0.1 valaszonline.hu
+
+# [social media]
+127.0.0.1 instagram.com
+127.0.0.1 facebook.com
+127.0.0.1 youtube.com
+127.0.0.1 reddit.com
+127.0.0.1 tiktok.com
+127.0.0.1 x.com
+127.0.0.1 twitter.com
+127.0.0.1 pinterest.com
+127.0.0.1 bsky.app
+127.0.0.1 bsky.social
+127.0.0.1 bereal.com
+127.0.0.1 snapchat.com
+
+# [bigger invidious instances]
+127.0.0.1 yewtu.be
+127.0.0.1 vid.puffyan.us
+127.0.0.1 yt.artemislena.eu
+127.0.0.1 invidious.flokinet.to
+127.0.0.1 invidious.projectsegfau.lt
+127.0.0.1 invidious.privacydev.net
+127.0.0.1 iv.melmac.space
+127.0.0.1 iv.ggtyler.dev
+127.0.0.1 invidious.lunar.icu
+127.0.0.1 inv.nadeko.net
+127.0.0.1 inv.tux.pizza
+127.0.0.1 invidious.protokolla.fi
+127.0.0.1 iv.nboeck.de
+127.0.0.1 invidious.private.coffee
+127.0.0.1 yt.drgnz.club
+127.0.0.1 iv.datura.network
+127.0.0.1 invidious.fdn.fr
+127.0.0.1 invidious.perennialte.ch
+127.0.0.1 yt.cdaut.de
+127.0.0.1 invidious.drgns.space
+127.0.0.1 inv.us.projectsegfau.lt
+127.0.0.1 invidious.einfachzocken.eu
+127.0.0.1 invidious.nerdvpn.de
+127.0.0.1 inv.n8pjl.ca
+127.0.0.1 invidious.jing.rocks
+127.0.0.1 vid.lilay.dev
+127.0.0.1 inv.oikei.net
+127.0.0.1 invidious.privacyredirect.com
+
+# [libreddit redlib instances]
+127.0.0.1 redlib.kittywi.re
+127.0.0.1 safereddit.com
+127.0.0.1 libreddit.kavin.rocks 		
+127.0.0.1 reddit.invak.id 			
+127.0.0.1 libreddit.eu.org 	 	
+127.0.0.1 reddit.simo.sh 			
+127.0.0.1 libreddit.strongthany.cc 	 		
+127.0.0.1 libreddit.northboot.xyz 	 		
+127.0.0.1 lr.vern.cc 	     		
+127.0.0.1 libreddit.privacydev.net	
+127.0.0.1 libreddit.oxymagnesium.com 		
+127.0.0.1 reddit.utsav2.dev 			
+127.0.0.1 discuss.whatever.social 	
+127.0.0.1 libreddit.bus-hit.me 			
+127.0.0.1 libreddit.lunar.icu 	
+127.0.0.1 snoo.habedieeh.re 		
+127.0.0.1 libreddit.tux.pizza
+
+# [other instances]
+127.0.0.1 piped.video
+127.0.0.1 piped.kavin.rocks
+127.0.0.1 teddit.net
+127.0.0.1 tube.cadence.moe
