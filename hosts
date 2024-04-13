@@ -24,6 +24,28 @@
 127.0.0.1 metropol.hu
 127.0.0.1 divany.hu
 127.0.0.1 valaszonline.hu
+127.0.0.1 www.444.hu
+127.0.0.1 www.vadhajtasok.hu
+127.0.0.1 www.origo.hu
+127.0.0.1 www.telex.hu
+127.0.0.1 www.index.hu
+127.0.0.1 www.888.hu
+127.0.0.1 www.24.hu
+127.0.0.1 www.blikk.hu
+127.0.0.1 www.portfolio.hu
+127.0.0.1 www.femina.hu
+127.0.0.1 www.borsonline.hu
+127.0.0.1 www.hvg.hu
+127.0.0.1 www.kiskegyed.hu
+127.0.0.1 www.rtl.hu
+127.0.0.1 www.nlc.hu
+127.0.0.1 www.ripost.hu
+127.0.0.1 www.penzcentrum.hu
+127.0.0.1 www.mandiner.hu
+127.0.0.1 www.magyarnemzet.hu
+127.0.0.1 www.metropol.hu
+127.0.0.1 www.divany.hu
+127.0.0.1 www.valaszonline.hu
 
 # [social media]
 127.0.0.1 instagram.com
@@ -40,6 +62,19 @@
 127.0.0.1 bsky.social
 127.0.0.1 bereal.com
 127.0.0.1 snapchat.com
+127.0.0.1 www.instagram.com
+127.0.0.1 www.facebook.com
+127.0.0.1 www.youtube.com
+127.0.0.1 www.kids.youtube.com
+127.0.0.1 www.reddit.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 www.x.com
+127.0.0.1 www.twitter.com
+127.0.0.1 www.pinterest.com
+127.0.0.1 www.bsky.app
+127.0.0.1 www.bsky.social
+127.0.0.1 www.bereal.com
+127.0.0.1 www.snapchat.com
 
 # [bigger invidious instances]
 127.0.0.1 yewtu.be
@@ -70,6 +105,34 @@
 127.0.0.1 vid.lilay.dev
 127.0.0.1 inv.oikei.net
 127.0.0.1 invidious.privacyredirect.com
+127.0.0.1 www.yewtu.be
+127.0.0.1 www.vid.puffyan.us
+127.0.0.1 www.yt.artemislena.eu
+127.0.0.1 www.invidious.flokinet.to
+127.0.0.1 www.invidious.projectsegfau.lt
+127.0.0.1 www.invidious.privacydev.net
+127.0.0.1 www.iv.melmac.space
+127.0.0.1 www.iv.ggtyler.dev
+127.0.0.1 www.invidious.lunar.icu
+127.0.0.1 www.inv.nadeko.net
+127.0.0.1 www.inv.tux.pizza
+127.0.0.1 www.invidious.protokolla.fi
+127.0.0.1 www.iv.nboeck.de
+127.0.0.1 www.invidious.private.coffee
+127.0.0.1 www.yt.drgnz.club
+127.0.0.1 www.iv.datura.network
+127.0.0.1 www.invidious.fdn.fr
+127.0.0.1 www.invidious.perennialte.ch
+127.0.0.1 www.yt.cdaut.de
+127.0.0.1 www.invidious.drgns.space
+127.0.0.1 www.inv.us.projectsegfau.lt
+127.0.0.1 www.invidious.einfachzocken.eu
+127.0.0.1 www.invidious.nerdvpn.de
+127.0.0.1 www.inv.n8pjl.ca
+127.0.0.1 www.invidious.jing.rocks
+127.0.0.1 www.vid.lilay.dev
+127.0.0.1 www.inv.oikei.net
+127.0.0.1 www.invidious.privacyredirect.com
 
 # [libreddit redlib instances]
 127.0.0.1 redlib.kittywi.re
@@ -89,9 +152,30 @@
 127.0.0.1 libreddit.lunar.icu 	
 127.0.0.1 snoo.habedieeh.re 		
 127.0.0.1 libreddit.tux.pizza
+127.0.0.1 www.redlib.kittywi.re
+127.0.0.1 www.safereddit.com
+127.0.0.1 www.libreddit.kavin.rocks 		
+127.0.0.1 www.reddit.invak.id 			
+127.0.0.1 www.libreddit.eu.org 	 	
+127.0.0.1 www.reddit.simo.sh 			
+127.0.0.1 www.libreddit.strongthany.cc 	 		
+127.0.0.1 www.libreddit.northboot.xyz 	 		
+127.0.0.1 www.lr.vern.cc 	     		
+127.0.0.1 www.libreddit.privacydev.net	
+127.0.0.1 www.libreddit.oxymagnesium.com 		
+127.0.0.1 www.reddit.utsav2.dev 			
+127.0.0.1 www.discuss.whatever.social 	
+127.0.0.1 www.libreddit.bus-hit.me 			
+127.0.0.1 www.libreddit.lunar.icu 	
+127.0.0.1 www.snoo.habedieeh.re 		
+127.0.0.1 www.libreddit.tux.pizza
 
 # [other instances]
 127.0.0.1 piped.video
 127.0.0.1 piped.kavin.rocks
 127.0.0.1 teddit.net
 127.0.0.1 tube.cadence.moe
+127.0.0.1 www.piped.video
+127.0.0.1 www.piped.kavin.rocks
+127.0.0.1 www.teddit.net
+127.0.0.1 www.tube.cadence.moe
